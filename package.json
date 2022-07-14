@@ -12,7 +12,8 @@
 	"devDependencies": {
 		"@types/ffi-napi": "^4.0.5",
 		"@types/ref-napi": "^3.0.4",
-		"@types/windows-elevate": "^1.0.0"
+		"@types/windows-elevate": "^1.0.0",
+		"typescript": "^4.7.4"
 	},
 	"scripts": {
 		"dev": "tsc vgen-xbox",
