@@ -1,6 +1,6 @@
 {
 	"name": "@evilazio/vgen-xbox",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"dependencies": {
 		"assert": "^2.0.0",
 		"ffi-napi": "^4.0.3",
