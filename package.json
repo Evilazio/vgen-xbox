@@ -1,5 +1,5 @@
 {
-	"name": "@Evilazio/vgen-xbox",
+	"name": "@evilazio/vgen-xbox",
 	"version": "1.0.0",
 	"dependencies": {
 		"assert": "^2.0.0",

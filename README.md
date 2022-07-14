@@ -13,7 +13,7 @@ vgen.setButton(controllerId, vgen.Buttons.B, false); // Release B button
 
 vgen.unplug(controllerId); // Unplug controller
 ```
-Full example available in [demo.js](https://github.com/Jeflux/vgen-xbox/blob/master/demo.js)
+Full example available in [demo.js](https://github.com/Evilazio/vgen-xbox/blob/master/demo.js)
 
 
 # Installation
