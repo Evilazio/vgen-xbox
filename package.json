@@ -17,6 +17,7 @@
 	},
 	"scripts": {
 		"dev": "tsc vgen-xbox",
+		"push_npm": "npm publish --access public",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
